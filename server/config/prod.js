@@ -2,10 +2,8 @@ module.exports = {
   port: 3000,
   mongodb: {
     name: 'elapse',
-    host: '127.0.0.1',
+    host: 'localhost',
     port: 27017,
-    user: 'zhaoxu',
-    pwd:  'zhaoxu123'
   },
   mailer: {
 
